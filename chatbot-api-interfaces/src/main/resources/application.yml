@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+chatGpt-test:
+  groupId: 28885882485881
+  cookie: zsxq_access_token=7528A0B2-811B-93FE-1E17-4827B1CF2FDA_40A150BB70AF1723; zsxqsessionid=a43585607ebf740bd9e581372470d960; abtest_env=product; UM_distinctid=186c61c33c4c72-0e2401bc6a484-26021051-144000-186c61c33c5f15; sensorsdata2015jssdkcross={"distinct_id":"415442412552118","first_id":"186b206b52813c-0d43fc590e41e1-26021051-1327104-186b206b5291048","props":{"$latest_traffic_source_type":"直接流量","$latest_search_keyword":"未取到值_直接打开","$latest_referrer":""},"identities":"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTg2YjIwNmI1MjgxM2MtMGQ0M2ZjNTkwZTQxZTEtMjYwMjEwNTEtMTMyNzEwNC0xODZiMjA2YjUyOTEwNDgiLCIkaWRlbnRpdHlfbG9naW5faWQiOiI0MTU0NDI0MTI1NTIxMTgifQ==","history_login_id":{"name":"$identity_login_id","value":"415442412552118"},"$device_id":"186b206b52813c-0d43fc590e41e1-26021051-1327104-186b206b5291048"}; ajs_user_id=0XgOwjTXb7X97DIjogV9kKo664B3; ajs_anonymous_id=c929cc2e-54a8-4df8-b9bd-7c529e576245
